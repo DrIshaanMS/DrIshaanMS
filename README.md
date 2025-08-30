@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="60%">
-
+  
 - 🎓 Exploring **Data Science, AI & Machine Learning**  
 - 🔧 Skilled in **Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🤖 Hands-on with **basic ML models** (Regression, Classification, Clustering)  
@@ -21,11 +21,14 @@
 - 🛠️ Comfortable with **Git & GitHub** for version control  
 - 📈 Love solving real-world problems with data  
 
+✨ **Earlier Projects & Skills:**  
+- 🔹 Built apps using **Firebase, React, JavaScript, HTML, TailwindCSS, CSS**  
+- 🔹 Experience with **R, Data Structures & Algorithms, APIs**  
+- 🔹 Now focused mainly on **AI & Data Science**  
+
 </td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
-
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Data Enthusiast"/>
 </td>
 </tr>
 </table>
@@ -45,37 +48,45 @@
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
--->
+
 ## 📊 My Highlights  
-- ⭐ 10+ repositories created  
+- ⭐ 20+ repositories created  
 - 🏆 50+ contributions in 2025  
-- 📈 Experienced with Python, ML & AI  
-- ☁️ Worked with Firebase, React, Tailwind, APIs  
+- 📈 Strong foundation in **Python, ML, and AI**  
+- ☁️ Built projects with **Firebase, React, TailwindCSS, APIs**  
+- 📊 Active on **Kaggle & Medium**, sharing projects and insights  
 
 ---
 
 ## 🌱 Current Focus  
 🔹 Improving my skills in **Machine Learning & AI**  
 🔹 Building **projects that connect data to business insights**  
+🔹 Exploring **APIs & data-driven applications**  
 🔹 Contributing to **open-source & collaborative projects**  
+
+---
+
+## 📂 Kaggle & Medium  
+<p align="center">
+  <a href="https://www.kaggle.com/ishaanms">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ishaanms">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/ishaan-ms-84242130a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ishaanms73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/DrIshaanMS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -83,3 +94,11 @@
 ---
 
 ⭐️ *“Data is the new oil, and I love refining it into insights!”*  
+
+<!--
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+-->
