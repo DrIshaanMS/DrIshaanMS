@@ -45,12 +45,18 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
+## 📊 My Highlights  
+- ⭐ 10+ repositories created  
+- 🏆 50+ contributions in 2025  
+- 📈 Experienced with Python, ML & AI  
+- ☁️ Worked with Firebase, React, Tailwind, APIs  
 
 ---
 
