@@ -1,22 +1,34 @@
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://github.com/ishaanms/ishaanms/assets/banner.gif" alt="AI & Data Science" width="100%">
 </p>
 
-# Hi there 👋, I'm Mohammed Ishaan MS
+# Hi there 👋, I'm Ishaan  
 
 💡 **Data Science & AI Enthusiast** passionate about turning data into insights and building intelligent solutions.  
 
 ---
 
 ## 🚀 About Me  
+<table>
+<tr>
+<td width="60%">
+
 - 🎓 Exploring **Data Science, AI & Machine Learning**  
 - 🔧 Skilled in **Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🤖 Hands-on with **basic ML models** (Regression, Classification, Clustering)  
 - ☁️ Familiar with **Cloud Platforms** (AWS / GCP / Azure)  
 - 🛠️ Comfortable with **Git & GitHub** for version control  
 - 📈 Love solving real-world problems with data  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,5 +77,3 @@
 ---
 
 ⭐️ *“Data is the new oil, and I love refining it into insights!”*  
-
-
